@@ -6,7 +6,7 @@ __**Note: All commands must be entered in SSH Console.**__
 
 **1.** First, Download the PocketMine Installer by entering this command at SSH Console,
 
-wget later.com
+wget http://ws.captainduck.xyz/uploads/5/4/8/6/54868769/pocketmine-installer.sh
 
 **2.** After the installer has been installed, we need to create a screen to where we create our server, (Don't know [Screens?](https://www.rackaid.com/blog/linux-screen-tutorial-and-how-to/))..
 To create a screen do screen -S (screen name)
@@ -30,7 +30,7 @@ Then, the dependencies, tools and the Setup wizard will now run! Good Luck! :D
 
 **1.** First, Download the Nukkit Installer by entering this command at SSH Console,
 
-wget later.com
+wget http://ws.captainduck.xyz/uploads/5/4/8/6/54868769/nukkit-installer.sh
 
 **2.** After the installer has been installed, we need to create a screen to where we create our server, (Don't know [Screens?](https://www.rackaid.com/blog/linux-screen-tutorial-and-how-to/))..
 To create a screen do screen -S (screen name)
