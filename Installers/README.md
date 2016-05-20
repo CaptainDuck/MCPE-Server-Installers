@@ -47,4 +47,4 @@ After that, we need to run the Installer to start setting up the server! :D
 
 Then, the dependencies, tools and the Setup wizard will now run! Good Luck! :D
 
->If you have accidentally stopped or crashed your server.. Do
+>If you have accidentally stopped or crashed your server.. Do java -Xms128M -Xmx1G -jar nukkit.jar
