@@ -15,11 +15,11 @@ After that you will be instantly teleported to the newly created screen..
 
 **3.** After that.. We need to give permissions on our installer, but, we need to go to the directory where we installed the installer (Optional, Normally it's in the root directory).. Now we give permissions :3
 
-chmod +x PocketMine-Installer.sh
+chmod +x pocketmine-installer.sh
 
 After that, we need to run the Installer to start setting up the server! :D
 
-./PocketMine-Installer.sh
+./pocketmine-installer.sh
 
 Then, the dependencies, tools and the Setup wizard will now run! Good Luck! :D
 
@@ -39,11 +39,11 @@ After that you will be instantly teleported to the newly created screen..
 
 **3.** After that.. We need to give permissions on our installer, but, we need to go to the directory where we installed the installer (Optional, Normally it's in the root directory).. Now we give permissions :3
 
-chmod +x Nukkit-Installer.sh
+chmod +x nukkit-installer.sh
 
 After that, we need to run the Installer to start setting up the server! :D
 
-./Nukkit-Installer.sh
+./nukkit-installer.sh
 
 Then, the dependencies, tools and the Setup wizard will now run! Good Luck! :D
 
