@@ -52,4 +52,4 @@ Then, the dependencies, tools and the Setup wizard will now run! Good Luck! :D
 
 ##**For ImagicalMine and Genisys**
 
-**To change your server to IM or Genisys Vice Versa, Pls visit [This Page](https://github.com/CaptainDuck/How-to-install-a-MCPE-PocketMine-server-on-CentOS-Linux/wiki/)
+**To change your server to IM or Genisys Vice Versa, Pls visit [This Page](https://github.com/CaptainDuck/MCPE-Installers/tree/master/Installers/Phar-Change)**
