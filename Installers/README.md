@@ -48,3 +48,8 @@ After that, we need to run the Installer to start setting up the server! :D
 Then, the dependencies, tools and the Setup wizard will now run! Good Luck! :D
 
 >If you have accidentally stopped or crashed your server.. Do java -Xms128M -Xmx1G -jar nukkit.jar
+
+
+##**For ImagicalMine and Genisys**
+
+**To change your server to IM or Genisys Vice Versa, Pls visit [This Page](https://github.com/CaptainDuck/How-to-install-a-MCPE-PocketMine-server-on-CentOS-Linux/wiki/)
