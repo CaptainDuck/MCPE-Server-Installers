@@ -3,4 +3,4 @@ echo "Running ImagicalMine phar change! please make sure that your server is sto
 screen -r
 stop
 rm PocketMine-MP.phar
-wget http://imagicalcorp.github.io/ImagicalMine/service-download/ImagicalMine.phar && mv 'ImagicalMine.phar' PocketMine-MP.phar && echo "ImagicalMine Phar Change succeeded! Please starrt your server to see the changes. :D"
+wget http://imagicalcorp.github.io/ImagicalMine/service-download/ImagicalMine.phar && mv 'ImagicalMine.phar' PocketMine-MP.phar && echo "ImagicalMine Phar Change succeeded! Please start your server to see the changes. :D"
