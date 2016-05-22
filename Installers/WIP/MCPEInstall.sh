@@ -7,7 +7,7 @@ echo "3) Genisys"
 echo "4) Nukkit"
 echo "5) Nevermind."
 echo "Note: Please enter it using numbers." #1-5
-echo "If you have any Problems/Issues/Questions just go to github.com/CaptainDuck/MCPE-Installers ! :D
+echo "If you have any Problems/Issues/Questions just go to github.com/CaptainDuck/MCPE-Installers ! :D"
 read software;
 
 case $software in
@@ -20,6 +20,6 @@ case $software in
     4) echo "You have selected the Nukkit Software! Installing it right now."
 && wget http://ws.captainduck.xyz/uploads/5/4/8/6/54868769/nukkit-installer.sh;;
 && chmod +x nukkit-installer.sh;;
-&& ./nukkit-installer.sh;; #Succesfully installed Nukkit!
+&& ./nukkit-installer.sh;;
     5) exit
 esac
