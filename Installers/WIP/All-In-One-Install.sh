@@ -12,6 +12,6 @@ read software;
 case $software in
     1) echo "You have selected the PocketMine Software! Installing it right now.";;
     2) echo "You have selected the ImagicalMine Software! Installing it right now.";;
-    3) echo "You selected phyton";;
-    4) echo "You selected c++";;
+    3) echo "You have selected the Genisys Software! Installing it right now.";;
+    4) echo "You have selected the Nukkit Software! Installing it right now.";;
     5) exit
