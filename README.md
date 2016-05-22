@@ -2,7 +2,7 @@
 
 **This is a set of automatic installers to help you set up your very own MCPE server on Linux.**
 
-**This automated installer supports the following server software: **[PocketMine](https://github.com/PocketMine/PocketMine-MP), [ImagicalMine](https://github.com/ImagicalCorp/ImagicalMine), [Nukkit](https://github.com/Nukkit/Nukkit),and [Genisys](https://github.com/ITX-Tech/Genisys).**
+**This automated installer supports the following server software: [PocketMine](https://github.com/PocketMine/PocketMine-MP), [ImagicalMine](https://github.com/ImagicalCorp/ImagicalMine), [Nukkit](https://github.com/Nukkit/Nukkit), and [Genisys](https://github.com/ITX-Tech/Genisys).**
 
 **RELEASED! No bugs, and 100% works! If you want to go straight into the tutorial, visit [this page](https://github.com/CaptainDuck/MCPE-Installers/tree/master/Installers).**
 
