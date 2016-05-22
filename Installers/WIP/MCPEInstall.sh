@@ -11,9 +11,15 @@ echo "If you have any Problems/Issues/Questions just go to github.com/CaptainDuc
 read software;
 
 case $software in
-    1) echo "You have selected the PocketMine Software! Installing it right now!" && wget http://ws.captainduck.xyz/uploads/5/4/8/6/54868769/pocketmine-installer.sh && chmod +x pocketmine-installer.sh && ./pocketmine-installer.sh;;
+    1) echo "You have selected the PocketMine Software! Installing it right now!"
+&& wget http://ws.captainduck.xyz/uploads/5/4/8/6/54868769/pocketmine-installer.sh;;
+&& chmod +x pocketmine-installer.sh;;
+&& ./pocketmine-installer.sh;;
     2) echo "You have selected the ImagicalMine Software! Installing it right now.";;
     3) echo "You have selected the Genisys Software! Installing it right now.";;
-    4) echo "You have selected the Nukkit Software! Installing it right now." && wget http://ws.captainduck.xyz/uploads/5/4/8/6/54868769/nukkit-installer.sh && chmod +x nukkit-installer.sh && ./nukkit-installer.sh;;
+    4) echo "You have selected the Nukkit Software! Installing it right now."
+&& wget http://ws.captainduck.xyz/uploads/5/4/8/6/54868769/nukkit-installer.sh;;
+&& chmod +x nukkit-installer.sh;;
+&& ./nukkit-installer.sh;;
     5) exit
 esac
