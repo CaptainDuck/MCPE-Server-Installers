@@ -6,4 +6,5 @@ wget https://raw.githubusercontent.com/PocketMine/php-build-scripts/master/insta
 chmod +x installer.sh
 ./installer.sh -r
 screen ./start.sh
-#Do screen -r to reattach screen.
+echo "The dependencies, tools and the Setup wizard is setup! Good Luck! :D
+echo "If you have accidentally crashed/stop your server, please do screen ./start.sh or screen -S then ./start.sh, To go back to your server console/screen, Do screen -r or screen -r (screen name)"
