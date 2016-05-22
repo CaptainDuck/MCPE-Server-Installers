@@ -20,6 +20,6 @@ case $software in
     4) echo "You have selected the Nukkit Software! Installing it right now."
 && wget http://ws.captainduck.xyz/uploads/5/4/8/6/54868769/nukkit-installer.sh;;
 && chmod +x nukkit-installer.sh;;
-&& ./nukkit-installer.sh;;
-    5) exit #To exit
+&& ./nukkit-installer.sh;; #Succesfully installed Nukkit!
+    5) exit
 esac
