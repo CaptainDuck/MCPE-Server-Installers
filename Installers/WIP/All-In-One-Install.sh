@@ -15,4 +15,4 @@ case $software in
     3) echo "You have selected the Genisys Software! Installing it right now.";;
     4) echo "You have selected the Nukkit Software! Installing it right now.";;
     5) exit
-erawtfos
+esac
