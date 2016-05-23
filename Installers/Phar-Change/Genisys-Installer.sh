@@ -7,7 +7,7 @@ echo "2) No, but i will :3"
 echo "Please answer in numbers :D"
 read mcpe;
 
-case $mcpe in;
+case $mcpe in
     1) echo "Okay! The Genisys Installer will start now :D." && rm PocketMine-MP.phar
 wget https://jenkins.mcper.cn/job/Genisys-master/397/artifact/artifact/Genisys_1.1dev-397.phar && mv 'Genisys-1.1dev-397.phar' PocketMine-MP.phar && echo "Genisys Phar Change succeeded! Please start your server to see the changes. :D";;
 
