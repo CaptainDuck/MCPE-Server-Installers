@@ -7,5 +7,6 @@ rm ~/jre-8u60-linux-x64.rpm #Successfully installed Java8
 wget http://ci.mengcraft.com:8080/job/nukkit/lastSuccessfulBuild/artifact/target/nukkit-1.0-SNAPSHOT.jar
 mv 'nukkit-1.0-SNAPSHOT.jar' nukkit.jar
 java -Xms128M -Xmx1G -jar nukkit.jar #Successfully installed Nukkit
-echo "The dependencies, tools and the Setup wizard is setup! Good Luck! :D"
-echo "If you have accidentally crashed/stop your server, please do java -Xms128M -Xmx1G -jar nukkit.jar"
+echo "Just do java -Xms128M -Xmx1G -jar nukkit.jar then the Setup wizard will run! Good Luck! :D"
+echo "If you have accidentally crashed/stop your server, please do screen java -Xms128M -Xmx1G -jar nukkit.jar or screen -S then java -Xms128M -Xmx1G -jar nukkit.jar, To go back to your server console/screen, Do screen -r or screen -r (screen name)"
+
