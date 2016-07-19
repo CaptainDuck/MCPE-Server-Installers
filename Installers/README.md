@@ -52,4 +52,4 @@ After that, we need to run the Installer to start setting up the server:
 ```
 Then, the dependencies, tools and the setup wizard will now run! Good Luck!
 
->If you have accidentally stopped or crashed your server, you can run this command: java -Xms128M -Xmx1G -jar nukkit.jar
+>If you have accidentally stopped or crashed your server, you can run this command: "./nukkitstart.sh"
