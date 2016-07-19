@@ -5,6 +5,7 @@ __**Note: All commands must be entered in a server using a SSH client.**__
 ##**For PocketMine..**
 ---
 **1.** First, download the PocketMine Installer by entering this command in your console:
+```
 wget http://ws.captainduck.xyz/uploads/5/4/8/6/54868769/pocketmine-installer.sh
 ```
 **Or if the link doesn't work, download the zip file of the repository from [here](https://github.com/CaptainDuck/MCPE-Server-Installers/archive/master.zip) then unzip, move or copy the installer then do as follows,
@@ -34,7 +35,7 @@ To update your server software, you can replace the current PocketMine-MP.phar i
 ```
 wget http://ws.captainduck.xyz/uploads/5/4/8/6/54868769/nukkit-installer.sh
 ```
-**Or if the link doesn't work, download the zip file of the repository from [here](https://github.com/CaptainDuck/MCPE-Server-Installers/archive/master.zip) then unzip, move or copy the installer then do as follows,
+**Or if the link doesn't work, download the zip file of the repository from [here](https://github.com/CaptainDuck/MCPE-Server-Installers/archive/master.zip) then unzip, move or copy the installer then do as follows,**
 
 **2.** After the installer has been installed, we need to create a screen to where we create our server, (Don't know [Screens?](https://www.rackaid.com/blog/linux-screen-tutorial-and-how-to/))..
 To create a screen: ```screen -S (screen name)```
@@ -52,8 +53,3 @@ After that, we need to run the Installer to start setting up the server:
 Then, the dependencies, tools and the setup wizard will now run! Good Luck!
 
 >If you have accidentally stopped or crashed your server, you can run this command: java -Xms128M -Xmx1G -jar nukkit.jar
-
-
-##**For ImagicalMine and Genisys**
-
-**To change your PocketMine server to ImagicalMine or Genisys, please visit [This Page](https://github.com/CaptainDuck/MCPE-Installers/tree/master/Installers/Phar-Change)**
