@@ -6,9 +6,8 @@ __**Note: All commands must be entered in a server using a SSH client.**__
 ---
 **1.** First, download the PocketMine Installer by entering this command in your console:
 ```
-wget http://ws.captainduck.xyz/uploads/5/4/8/6/54868769/pocketmine-installer.sh
+wget https://github.com/CaptainDuck/MCPE-Server-Installers/raw/master/Installers/PocketMine-Installer.sh
 ```
-**Or if the link doesn't work, download the zip file of the repository from [here](https://github.com/CaptainDuck/MCPE-Server-Installers/archive/master.zip) then unzip, move or copy the installer then do as follows,
 
 **2.** After the installer has been installed, we need to create a screen to where we create our server, (Don't know [Screens?](https://www.rackaid.com/blog/linux-screen-tutorial-and-how-to/)).. (Tmux will also work)**
 To create a screen: ```screen -S (screen name)```
@@ -33,7 +32,7 @@ To update your server software, you can replace the current PocketMine-MP.phar i
 ---
 **1.** First, Download the Nukkit Installer by entering this command in your console:
 ```
-wget http://ws.captainduck.xyz/uploads/5/4/8/6/54868769/nukkit-installer.sh
+wget https://github.com/CaptainDuck/MCPE-Server-Installers/raw/master/Installers/Nukkit-Installer.sh
 ```
 **Or if the link doesn't work, download the zip file of the repository from [here](https://github.com/CaptainDuck/MCPE-Server-Installers/archive/master.zip) then unzip, move or copy the installer then do as follows,**
 
