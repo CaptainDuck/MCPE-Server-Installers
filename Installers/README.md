@@ -6,6 +6,10 @@ __**Note: All commands must be entered in a server using a SSH client.**__
 ---
 **1.** First, download the PocketMine Installer by entering this command in your console:
 ```
+wget https://www.duckyfiles.website/cloud/files/pm-installer/dl/PocketMine-Installer.sh
+```
+**OR**
+```
 wget https://github.com/CaptainDuck/MCPE-Server-Installers/raw/master/Installers/PocketMine-Installer.sh
 ```
 
@@ -31,6 +35,10 @@ To update your server software, you can replace the current PocketMine-MP.phar i
 ##**For Nukkit**
 ---
 **1.** First, Download the Nukkit Installer by entering this command in your console:
+```
+wget https://www.duckyfiles.website/cloud/files/nukkit-installer/dl/Nukkit-Installer.sh
+```
+**OR**
 ```
 wget https://github.com/CaptainDuck/MCPE-Server-Installers/raw/master/Installers/Nukkit-Installer.sh
 ```
