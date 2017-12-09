@@ -6,7 +6,11 @@ __**Note: All commands must be entered in a server using a SSH client.**__
 ---
 **1.** First, download the Installer by entering this command in your console:
 ```
-wget http://ws.captainduck.xyz/uploads/5/4/8/6/54868769/mcpeinstall.sh
+wget https://www.duckyfiles.website/cloud/files/aioinstaller/dl/MCPEInstall.sh
+```
+**OR**
+```
+wget https://github.com/CaptainDuck/MCPE-Server-Installers/raw/master/Installers/AllInOne/MCPEInstall.sh
 ```
 **2.** After the installer has been installed, we need to create a screen to where we create our server, (Don't know [Screens?](https://www.rackaid.com/blog/linux-screen-tutorial-and-how-to/)).. (Tmux will also work)
 To create a screen: ```screen -S (screen name)```
